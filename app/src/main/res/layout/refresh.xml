@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#B3000000"
+    android:id="@+id/refresh">
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="100dp">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="90dp"
+        android:background="@drawable/info_bg"
+        android:gravity="center"
+        android:textSize="25dp"
+        android:id="@+id/txtRefresh"
+        android:text="All your effor will be lost.
+  Are you sure?"
+        android:textColor="#ffffff" />
+
+</FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/frmRefresh">
+
+        <Button
+            android:id="@+id/buttonOk"
+            android:layout_width="150dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="230dp"
+            android:text="OK"
+            android:textSize="21dp"
+            android:textColor="#ffffff"
+            android:background="@drawable/info_bg" />
+
+        <Button
+            android:id="@+id/buttonCancel"
+            android:layout_width="150dp"
+            android:layout_height="80dp"
+            android:text="CANCEL"
+            android:layout_marginLeft="30dp"
+            android:textSize="21dp"
+            android:textColor="#ffffff"
+            android:background="@drawable/info_bg" />
+    </FrameLayout>
+
+</LinearLayout>

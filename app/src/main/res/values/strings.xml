@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">StoryProject</string>
+
+    <string-array name="story">
+        <item>"Öncelikle şuan yazdığım hikaye gerçek değildir.Tamamen hayal ürünüdür1."</item>
+        <item>"Öncelikle şuan yazdığım hikaye gerçek değildir.Tamamen hayal ürünüdür2."</item>
+        <item>"Öncelikle şuan yazdığım hikaye gerçek değildir.Tamamen hayal ürünüdür3."</item>
+        <item>"Öncelikle şuan yazdığım hikaye gerçek değildir.Tamamen hayal ürünüdür4."</item>
+        <item>"Öncelikle şuan yazdığım hikaye gerçek değildir.Tamamen hayal ürünüdür5."</item>
+        <item>"Öncelikle şuan yazdığım hikaye gerçek değildir.Tamamen hayal ürünüdür6."</item>
+        <item>"Öncelikle şuan yazdığım hikaye gerçek değildir.Tamamen hayal ürünüdür7."</item>
+        <item>"Öncelikle şuan yazdığım hikaye gerçek değildir.Tamamen hayal ürünüdür8."</item>
+        <item>"Öncelikle şuan yazdığım hikaye gerçek değildir.Tamamen hayal ürünüdür9."</item>
+        <item>"Öncelikle şuan yazdığım hikaye gerçek değildir.Tamamen hayal ürünüdür10."</item>
+        <item>"Öncelikle şuan yazdığım hikaye gerçek değildir.Tamamen hayal ürünüdür11."</item>
+        <item>"Öncelikle şuan yazdığım hikaye gerçek değildir.Tamamen hayal ürünüdür12."</item>
+        <item>"Öncelikle şuan yazdığım hikaye gerçek değildir.Tamamen hayal ürünüdür13."</item>
+        <item>"Öncelikle şuan yazdığım hikaye gerçek değildir.Tamamen hayal ürünüdür14."</item>
+        <item>"Öncelikle şuan yazdığım hikaye gerçek değildir.Tamamen hayal ürünüdür15."</item>
+        <item>"Öncelikle şuan yazdığım hikaye gerçek değildir.Tamamen hayal ürünüdür16."</item>
+        <item>"Öncelikle şuan yazdığım hikaye gerçek değildir.Tamamen hayal ürünüdür17."</item>
+        <item>"Öncelikle şuan yazdığım hikaye gerçek değildir.Tamamen hayal ürünüdür18."</item>
+        <item>"Öncelikle şuan yazdığım hikaye gerçek değildir.Tamamen hayal ürünüdür19."</item>
+        <item>"Öncelikle şuan yazdığım hikaye gerçek değildir.Tamamen hayal ürünüdür20."</item>
+
+    </string-array>
+
+</resources>
